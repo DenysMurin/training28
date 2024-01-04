@@ -20,12 +20,12 @@ body {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  box-shadow: 10px 10px 5px black;
+  box-shadow: 10px 10px 5px rgb(20, 194, 49);
   transition: 0.3s ease-in-out;
 }
 .card:hover {
   transform: scale(1.03);
-  box-shadow: 15px 15px 5px rgb(97, 100, 65);
+  box-shadow: 15px 15px 5px orange;
 }
 img {
   position: relative;
